@@ -14,6 +14,7 @@ brew install zsh
 brew install htop
 brew install peco
 brew install zsh-completions
+brew install tree
 
 # brew cask
 brew cask install google-japanese-ime
