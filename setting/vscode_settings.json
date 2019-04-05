@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 2,
+    // Output format: pdf, html, png, jpeg
+    "markdown-pdf.type": "html",
+    "vsicons.projectDetection.autoReload": true,
+    "files.trimTrailingWhitespace": true,
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    },
+    "terminal.integrated.rendererType": "dom",
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "workbench.activityBar.visible": true,
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-path": "/Users/naoto.migita/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    "terminal.integrated.shell.osx": "/bin/zsh"
+}

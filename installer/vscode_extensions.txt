@@ -1,0 +1,14 @@
+buster.ndjson-colorizer
+DanielThielking.aws-cloudformation-yaml
+donjayamanne.jupyter
+jebbs.plantuml
+MS-CEINTL.vscode-language-pack-ja
+ms-kubernetes-tools.vscode-kubernetes-tools
+ms-mssql.mssql
+ms-python.python
+PeterJausovec.vscode-docker
+redhat.vscode-yaml
+vscode-icons-team.vscode-icons
+vscodevim.vim
+yzane.markdown-pdf
+yzhang.markdown-all-in-one
