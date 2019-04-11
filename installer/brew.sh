@@ -15,8 +15,8 @@ brew install htop
 brew install peco
 brew install zsh-completions
 brew install tree
-brew install stern
-brew install helm
+brew install etern
+brew install kubernetes-helm
 
 # brew cask
 brew cask install google-japanese-ime
