@@ -32,3 +32,4 @@ brew cask install clipy
 brew cask install qlmarkdown
 brew cask install slack
 brew cask install google-backup-and-sync
+brew cask install google-chrome
