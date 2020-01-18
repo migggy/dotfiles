@@ -14,5 +14,14 @@
     "vs-kubernetes": {
         "vs-kubernetes.minikube-path": "/Users/naoto.migita/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
     },
-    "terminal.integrated.shell.osx": "/bin/zsh"
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "clang.cxxflags": [
+        "-std=c++17"
+    ],
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -O2 -std=c++17 $fileName && ./a.out"
+    },
+    "C_Cpp.updateChannel": "Insiders"
 }

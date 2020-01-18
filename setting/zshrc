@@ -27,6 +27,7 @@ fpath=(/usr/local/share/zsh-completions $fpath)
 
 ## zsh
 disable r
+setopt nonomatch
 
 ## pyenv
 export PYENV_ROOT="$HOME/.pyenv"
